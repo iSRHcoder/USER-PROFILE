@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import Profiles from "../Components/Profiles/Profiles";
+import Profiles from "../components/Profiles/Profiles";
 
 const ProfilesPage = () => {
   const { page = "1" } = useParams();
