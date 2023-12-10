@@ -1,0 +1,9 @@
+.ProfileCard {
+  width: 22rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 0.3rem solid rgb(158, 152, 152);
+  padding: 2rem;
+}
