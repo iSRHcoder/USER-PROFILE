@@ -7,7 +7,7 @@ import Home from "../pages/Home";
 import SettingsPage from "../pages/SettingsPage";
 import SupportPage from "../pages/SupportPage";
 import LogIn from "../pages/LogIn";
-import AddUsers from "../Pages/AddUsers";
+import AddUsers from "../pages/AddUsers";
 
 const PageRoutes = () => {
   return (
