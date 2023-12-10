@@ -3,7 +3,7 @@ import styles from "./MyCarousel.module.css";
 
 const MyCarousel = () => {
   return (
-    <Carousel>
+    <Carousel className={styles.Carousel}>
       <Carousel.Item className={styles.Image}>
         <img src="/Images/wp3576126.jpg" alt="First slide" />
         <Carousel.Caption className="text-dark">
