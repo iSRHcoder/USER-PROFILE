@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
-import AppHeader from "../Components/AppHeader/AppHeader";
-import AppFooter from "../Components/AppFooter/AppFooter";
+import AppHeader from "../components/AppHeader/AppHeader";
+import AppFooter from "../components/AppFooter/AppFooter";
 
 const MainLayout = () => {
   return (
