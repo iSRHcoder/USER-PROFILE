@@ -1,13 +1,13 @@
 import { Route, Routes } from "react-router-dom";
 import route from "./route.json";
-import AddUsers from "../Pages/AddUsers";
-import ErrorPage from "../Pages/ErrorPage";
+import ErrorPage from "../pages/ErrorPage";
 import MainLayout from "../layouts/MainLayout";
 import ProfilesPage from "../pages/ProfilesPage";
 import Home from "../pages/Home";
 import SettingsPage from "../pages/SettingsPage";
 import SupportPage from "../pages/SupportPage";
 import LogIn from "../pages/LogIn";
+import AddUsers from "../Pages/AddUsers";
 
 const PageRoutes = () => {
   return (
